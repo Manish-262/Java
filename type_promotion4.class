@@ -1,0 +1,6 @@
+public class type_promotion4{
+    public satic void main(Strin args[]);
+    byte b = 4;
+    byte a = (byte)(b*2);
+    System.out.println(b);
+}
